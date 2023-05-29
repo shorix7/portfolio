@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D0D07BED-FDB5-4503-846E-FB81E9F45F6F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hotel.My.MyApplication</StartupObject>
+    <RootNamespace>Hotel</RootNamespace>
+    <AssemblyName>Hotel</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hotel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hotel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>company.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlackList.Designer.vb">
+      <DependentUpon>BlackList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BlackList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Booking.Designer.vb">
+      <DependentUpon>Booking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Booking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checkerboard.Designer.vb">
+      <DependentUpon>Checkerboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Checkerboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F2.Designer.vb">
+      <DependentUpon>F2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.vb">
+      <DependentUpon>Help.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Help.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoKlient.Designer.vb">
+      <DependentUpon>InfoKlient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoKlient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoKlientAdd.Designer.vb">
+      <DependentUpon>InfoKlientAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoKlientAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoNomer.Designer.vb">
+      <DependentUpon>InfoNomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoNomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI1.Designer.vb">
+      <DependentUpon>MDI1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDI1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Service.Designer.vb">
+      <DependentUpon>Service.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Service.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServiceAdd.Designer.vb">
+      <DependentUpon>ServiceAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zaselenie.Designer.vb">
+      <DependentUpon>Zaselenie.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Zaselenie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BlackList.resx">
+      <DependentUpon>BlackList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F2.resx">
+      <DependentUpon>F2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoKlient.resx">
+      <DependentUpon>InfoKlient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoKlientAdd.resx">
+      <DependentUpon>InfoKlientAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoNomer.resx">
+      <DependentUpon>InfoNomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI1.resx">
+      <DependentUpon>MDI1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zaselenie.resx">
+      <DependentUpon>Zaselenie.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ico\key.ico" />
+    <None Include="bin\Debug\ico\book_2.ico" />
+    <None Include="bin\Debug\ico\exit.ico" />
+    <None Include="bin\Debug\ico\message111s.ico" />
+    <None Include="bin\Debug\ico\i1nfo.ico" />
+    <None Include="bin\Debug\ico\info.ico" />
+    <None Include="bin\Debug\ico\user.ico" />
+    <None Include="bin\Debug\ico\friend.ico" />
+    <None Include="bin\Debug\ico\hotel.ico" />
+    <None Include="bin\Debug\ico\Chart.ico" />
+    <None Include="Resources\delete_1.ico" />
+    <None Include="Resources\185094.ico" />
+    <None Include="bin\Debug\ico\data_1.ico" />
+    <None Include="bin\Debug\ico\data.ico" />
+    <None Include="bin\Debug\ico\2.png" />
+    <None Include="bin\Debug\ico\Шаблон.jpg" />
+    <None Include="bin\Debug\ico\1.png" />
+    <None Include="bin\Debug\ico\3.png" />
+    <None Include="bin\Debug\ico\4.png" />
+    <None Include="bin\Debug\ico\5.png" />
+    <None Include="bin\Debug\ico\6.png" />
+    <None Include="bin\Debug\ico\7.png" />
+    <None Include="bin\Debug\ico\8.png" />
+    <None Include="bin\Debug\ico\9.png" />
+    <None Include="bin\Debug\ico\10.png" />
+    <None Include="bin\Debug\ico\delete.ico" />
+    <None Include="bin\Debug\ico\tick %282%29.ico" />
+    <None Include="bin\Debug\ico\tickcircle.ico" />
+    <Content Include="company.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

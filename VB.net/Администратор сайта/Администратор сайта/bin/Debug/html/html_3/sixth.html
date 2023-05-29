@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">                          <!--кодировка-->
+        <link rel="stylesheet" href="sixth.css">        <!--подключение файля со стилями-->
+    </head>
+        
+        
+    <body>
+<!--        Форма 1         -->
+        <div id="form-1">                                       <!--создание блока с уникальным именем-->
+            <form action="/search" method="GET">                <!--создание формы, которая будет отправлять запрос на сервер. Существуют методы GET и POST. Это всё работает на серверной части сайта.-->
+                <input type="text">                             <!--текстовый блок для ввода информации пользователем-->
+                <br>                                            <!--разрыв строки(перейти на следующую строку)-->
+                <input type="submit" value="Найти">             <!--создание кнопки для отправки запроса. На кнопке будет написано значение value -->
+                <input type="reset" value="Очистить">           <!--кнопка очистки всех текстовых элементов этой формы-->
+            </form>
+        </div>
+        
+        
+        
+        
+<!--    Форма 2             -->
+        <div id="form-2">
+            <h3>Оставьте свой отзыв</h3>                           <!--заголовок перед формой-->
+            <form action="/search" method="GET">
+                <div>                                               <!--создание элементов формы с помощью блоков, внутри которых надпись и поле для ввода-->
+                    <label for="username">Имя:</label>                  <!--надпись. for означает что при нажатии на эту надпись будет подсвечен элемент у которого id будет username-->
+                    <input type="text" id="username" name="username">   <!--поле для ввода текста. name это имя для серверных команд-->
+                </div>
+                <div>
+                    <label for="user-email">Email:</label>              
+                    <input type="text" id="user-email" name="user-email">
+                </div>
+                <div>
+                    <label for="user-message">Отзыв:</label>
+                    <textarea maxlength="40" id="message" name="user-message" rows="4" cols=3></textarea>       <!--растягивающееся поле для ввода текста. Максимально кол-во символов - 40. rows и cols дают размеры(кол-во строк и половина ширины в символах соответственно)-->
+                </div>
+                <input type="submit" value="Отправить">
+            </form>
+        </div>
+        
+        
+        
+<!--        Форма 3                 -->
+        <hr>
+        <div id="form-3">
+            <h3>Поделиться</h3>
+            <form>                                                              <!--создание формы с помощью списка-->
+                <ul>                                                            <!--немаркированный список-->
+                    <li>                                                        <!--элемент списка-->
+                        <label for="nickname">Nick:</label>
+                        <input type="text" id="nickname" name="nickname">
+                    </li>
+                    <li>
+                        <label for="email-3">Email:</label>
+                        <input type="text" id="email-3" name="email-3">
+                    </li>
+                    <li>
+                        <label for="phone-3">Phone:</label>
+                        <input type="text" id="phone-3" name="phone-3">
+                    </li>
+                    <li>
+                        <label for="message-3">Message:</label>
+                        <textarea id="message-3" name="message-3"></textarea>
+                    </li>
+                    <li>
+                        <input id="submit-button-3" type="submit" value="Send">
+                    </li>
+                </ul>
+            
+            </form>
+        </div>
+        
+        
+        
+        
+<!--        Форма 4                     -->
+        <hr>
+        <div id="form-4">
+            <h3>Регистрация</h3>
+            <form>
+                <ul>
+                    <li>
+                        <label>
+                            <span>Имя:</span>
+                            <input type="text" id="first-name" name="first-name">
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <span>Фамилия:</span>
+                            <input type="text" id="last-name" name="last-name">
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <span>Никнейм:</span>
+                            <input type="text" id="nickname-4" name="nickname-4">
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <span>Телефон:</span>
+                            <input type="text" id="phone-4" name="phone-4">
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <span>Пароль:</span>
+                            <input type="password" id="password-4" name="password-4">   <!--type= password означает что при вводе символов в это окно, они сразу будут автоматически заменяться на символ круга.-->
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <span>Дата рождения:</span>
+                            <input type="date" id="birthday-4" name="birthday-4">  <!--date позволяет выбрать дату в этом окне ввода-->
+                        </label>
+                    </li>
+                    <fieldset>
+                        <legend>Gender</legend> 
+                        <li>
+                            <input type="radio" value="мужской" id="man" name="sex">	<!--пункт выбора. Должен быть активен только 1. name должен юбыть одинаковым для всех radio-элементов.-->
+                            <label for="gender1">Male</label>				<!--надпись напротив этого пункта-->
+                        </li>
+                        <li>
+                            <input type="radio" value="женский" id="woman" name="sex">
+                            <label for="gender2">Female</label>
+                        </li>
+                        <li>
+                            <input type="radio" value="другое" id="other" name="sex">
+                            <label for="gender3">Other</label>
+                        </li>
+                    </fieldset> 
+                    <div>
+                        <label>
+                            <span>Вы прочитали соглашение?</span>
+                            <input type="checkbox" id="license" name="license">     <!--чекбокс для галочки-->
+                        </label>
+                    </div>
+                    <div>
+                        <span>Ваш уровень интеллекта?</span>
+                        <input type="number" name="iq" id="iq" min="0" max="200" step="10">  <!--элемент, где можно ввести числа с помощью стрелочек от 0 до 200 с шагом 10.-->                      
+                    </div>
+                    <div>
+                        <label>Для чего вы здесь?</label>   
+                        <select id="reason" name="reason">          <!--выпадающее меню из предложенных вариантов-->
+                            <option>Просто так</option>             <!--предлагающиеся варианты-->
+                            <option>Не скажу</option>
+                            <option>Незнаю</option>
+                            <option>Как я сюда попал?</option>
+                        </select>
+                    </div>
+                    <input type="submit" id="submit-reg-info-4" name="submit-reg-info-4" value="Ура">
+                </ul>
+            
+            </form>
+        
+            
+            
+        </div>
+        
+        <hr>
+        
+        <audio controls autoplay="autoplay" src="nyan.mp3"></audio>         <!--добавление аудио. controls нужен для отображения плеера и возможности запуска, паузы, перемотки-->
+        
+        
+        <video width="500" controls poster="summer_16.png">                 <!--вставка своего видео. Плеер будет иметь ширину 500. До запуска на весь экран будет превью указанное в poster. controls нужен для отображения плеера и возможности запуска, паузы, перемотки-->
+            <source src="rik.mp4" type="video/mp4">                         <!--ссылка на источник. обязательно указывать тип(формат, расширение) файла или кодека-->
+        
+        </video>
+        
+        
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/f-tLr7vONmc?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   <!--вставка элемента с другого сайта. В данном случае с youtube.com-->
+        
+        
+    </body>
+</html>
+
+
+
+
+
+
+

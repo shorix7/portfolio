@@ -1,0 +1,121 @@
+header p{
+    float: left;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 16px
+
+}
+.Zag{
+    padding-right: 30px;
+    font-weight: 600;
+    text-align: center;
+
+}
+header{
+    text-align: center;
+    background-color: #a33343;
+    height: 50px;
+    color:#eee6e3;
+    position: sticky;
+    top: 0
+
+}
+body{
+    margin: 0;
+    background-color: #f2f2f2
+}
+.content{
+    margin: 0 20% 0 20%
+}
+section{
+    margin-left: 77px;
+    float: left;
+    width: 567px;
+    text-align: justify;
+    
+    
+}
+section p{
+    margin-left: 0px;
+    padding-left: 0
+}
+body{
+    font-family: sans-serif;
+    font-size: 15px
+}
+.afhr{
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 0px
+}
+ul {
+    display: block;
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0
+}
+td{
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 4px
+    
+}
+th{
+    display: table-cell;
+    vertical-align: top;
+    float: left;
+    font-weight: 1000
+     
+}
+li{
+    padding-bottom: 2px
+}
+table{
+    margin-left:30px ;
+    padding:20px;
+    background-color: #e8e8e8;
+    float: left;
+    margin-top: 15px
+}
+.infobox-image{
+    padding-bottom: 17px;
+    padding-left: 0
+}
+.txtauth{
+    font-weight: 1000;
+    font-size: 18px
+}
+.authors figure{
+    float:left;
+    margin-right: 0;
+    margin-left: 30px;
+    text-align: center;
+    margin-top: 5px;
+    width: 115px
+    
+}
+.authors{
+    display: inline-block;
+    border: 1px solid black;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    margin-left: 77px;
+    margin-bottom: 30px
+}
+.authors p{
+    margin-left: 0;
+    padding-left: 0;
+    
+}
+.authors figcaption{
+    width: 120px
+}
+
+#Dis:hover, #Boo:hover, #ThAu:hover, #Readers:hover{
+    background-color: #922b39
+}
+

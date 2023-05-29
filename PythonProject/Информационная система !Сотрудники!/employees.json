@@ -1,0 +1,79 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "gender": "male",
+        "age": 35,
+        "position": "Manager"
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "gender": "female",
+        "age": 28,
+        "position": "Developer"
+    },
+    {
+        "firstname": "Robert",
+        "lastname": "Johnson",
+        "gender": "male",
+        "age": 40,
+        "position": "Designer"
+    },
+    {
+        "firstname": "Emily",
+        "lastname": "Lee",
+        "gender": "female",
+        "age": 27,
+        "position": "Developer"
+    },
+    {
+        "firstname": "William",
+        "lastname": "Brown",
+        "gender": "male",
+        "age": 42,
+        "position": "Manager"
+    },
+    {
+        "firstname": "Maria",
+        "lastname": "Garcia",
+        "gender": "female",
+        "age": 31,
+        "position": "Developer"
+    },
+    {
+        "firstname": "David",
+        "lastname": "Kim",
+        "gender": "male",
+        "age": 39,
+        "position": "Designer"
+    },
+    {
+        "firstname": "Stephanie",
+        "lastname": "Jones",
+        "gender": "female",
+        "age": 25,
+        "position": "Developer"
+    },
+    {
+        "firstname": "Michael",
+        "lastname": "Davis",
+        "gender": "male",
+        "age": 37,
+        "position": "Manager"
+    },
+    {
+        "firstname": "Sophia",
+        "lastname": "Taylor",
+        "gender": "female",
+        "age": 29,
+        "position": "Developer"
+    },
+    {
+        "firstname": "\u0414\u0438\u043c\u0430",
+        "lastname": "\u0421\u0443\u0432\u043e\u0440\u043e\u0432",
+        "gender": "\u043c\u0443\u0436\u0441\u043a\u043e\u0439",
+        "age": 12,
+        "position": "\u0434\u0435\u0432\u0435\u043b\u043e\u043f\u0435\u0440"
+    }
+]

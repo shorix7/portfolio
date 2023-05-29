@@ -1,0 +1,82 @@
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.AssemblyReference.cache
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.Form1.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmAnimation.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmContentEditor.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmFileInfo.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmGraphEditor.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmImageManager.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmNewItem.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmOptions.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmPrint.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmSystemInfo.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.Resources.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта.exe.config
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта.exe
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта.pdb
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта.xml
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.exe
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.xml
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.pdb
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.ResolveComReference.cache
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmAudioVideo.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmAbout.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmPartitions.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmSites.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmReportViewer.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.CopyComplete
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmBrowser.resources
+C:\Users\HP\Desktop\УП3\Администратор сайта\Администратор сайта\obj\Debug\Interop.MDACVer.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Interop.WMPLib.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.AssemblyReference.cache
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.SuggestedBindingRedirects.cache
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Interop.MDACVer.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Interop.WMPLib.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.ResolveComReference.cache
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.Form1.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmAbout.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmAnimation.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmAudioVideo.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmBrowser.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmContentEditor.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmFileInfo.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmGraphEditor.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmImageManager.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmNewItem.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmOptions.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmPartitions.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmPrint.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmReportViewer.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmSites.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.frmSystemInfo.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор_сайта.Resources.resources
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.GenerateResource.cache
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.CoreCompileInputs.cache
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта.vbproj.CopyComplete
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта(Suvorov).exe.config
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта(Suvorov).exe
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта(Suvorov).pdb
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта(Suvorov).xml
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта(Suvorov).exe
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта(Suvorov).xml
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта(Suvorov).pdb
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта(Suvorov).exe.manifest
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\bin\Debug\Администратор сайта(Suvorov).application
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта(Suvorov).exe.manifest
+D:\Users\MaloyPC\Рабочий стол\Учебная практика\Администратор сайта\Администратор сайта\obj\Debug\Администратор сайта(Suvorov).application

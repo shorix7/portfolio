@@ -1,0 +1,196 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hotel
+</name>
+</assembly>
+<members>
+<member name="T:Hotel.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._10">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._185094">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._2">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._21">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._3">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._4">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._5">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._6">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._7">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._8">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._9">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._exit">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources._friend">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.book_2">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.Chart">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.data">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.data_1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.data_11">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.data1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.data2">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.delete">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.delete_1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.delete1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.hotel">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.i1nfo">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.info">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.key">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.message111s">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.tick__2_">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.tickcircle">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.user">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.user1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Hotel.My.Resources.Resources.Шаблон">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Инвентаризация
+</name>
+</assembly>
+<members>
+<member name="T:Инвентаризация.dbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ЖурналDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.Журнал_выдачDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ПолучателиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ТехникаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ЖурналRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.Журнал_выдачRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ПолучателиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ТехникаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ЖурналRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.Журнал_выдачRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ПолучателиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSet.ТехникаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSetTableAdapters.ЖурналTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSetTableAdapters.Журнал_выдачTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSetTableAdapters.ПолучателиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSetTableAdapters.ТехникаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Инвентаризация.dbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Инвентаризация.dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Инвентаризация.dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager.UpdateAll(Инвентаризация.dbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Инвентаризация.dbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Инвентаризация.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Инвентаризация.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Инвентаризация.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+</members>
+</doc>

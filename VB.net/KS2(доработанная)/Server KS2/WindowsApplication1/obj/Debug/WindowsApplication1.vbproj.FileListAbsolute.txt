@@ -1,0 +1,59 @@
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\4\Documents\Visual Studio 2015\Projects\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Student18.ZF\Desktop\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\Сервер KS2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

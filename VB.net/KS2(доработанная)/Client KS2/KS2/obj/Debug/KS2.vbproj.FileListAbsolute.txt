@@ -1,0 +1,37 @@
+c:\users\4\documents\visual studio 2015\Projects\KS2\KS2\bin\Debug\KS2.exe.config
+c:\users\4\documents\visual studio 2015\Projects\KS2\KS2\obj\Debug\KS2.Form1.resources
+c:\users\4\documents\visual studio 2015\Projects\KS2\KS2\obj\Debug\KS2.Resources.resources
+c:\users\4\documents\visual studio 2015\Projects\KS2\KS2\obj\Debug\KS2.vbproj.GenerateResource.Cache
+C:\Users\4\Documents\Visual Studio 2015\Projects\KS2\KS2\bin\Debug\KS2.exe
+C:\Users\4\Documents\Visual Studio 2015\Projects\KS2\KS2\bin\Debug\KS2.pdb
+C:\Users\4\Documents\Visual Studio 2015\Projects\KS2\KS2\bin\Debug\KS2.xml
+C:\Users\4\Documents\Visual Studio 2015\Projects\KS2\KS2\obj\Debug\KS2.exe
+C:\Users\4\Documents\Visual Studio 2015\Projects\KS2\KS2\obj\Debug\KS2.xml
+C:\Users\4\Documents\Visual Studio 2015\Projects\KS2\KS2\obj\Debug\KS2.pdb
+C:\Users\4\Documents\Visual Studio 2015\Projects\KS2\KS2\obj\Debug\KS2.vbprojResolveAssemblyReference.cache
+C:\Users\Student18.ZF\Desktop\KS2\KS2\bin\Debug\KS2.exe.config
+C:\Users\Student18.ZF\Desktop\KS2\KS2\obj\Debug\KS2.exe
+C:\Users\Student18.ZF\Desktop\KS2\KS2\obj\Debug\KS2.xml
+C:\Users\Student18.ZF\Desktop\KS2\KS2\obj\Debug\KS2.pdb
+C:\Users\Student18.ZF\Desktop\KS2\KS2\bin\Debug\KS2.exe
+C:\Users\Student18.ZF\Desktop\KS2\KS2\bin\Debug\KS2.pdb
+C:\Users\Student18.ZF\Desktop\KS2\KS2\bin\Debug\KS2.xml
+C:\Users\Student18.ZF\Desktop\KS2\KS2\obj\Debug\KS2.vbprojResolveAssemblyReference.cache
+C:\Users\Student18.ZF\Desktop\KS2\KS2\obj\Debug\KS2.Form1.resources
+C:\Users\Student18.ZF\Desktop\KS2\KS2\obj\Debug\KS2.Resources.resources
+C:\Users\Student18.ZF\Desktop\KS2\KS2\obj\Debug\KS2.vbproj.GenerateResource.Cache
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\KS2\KS2\bin\Debug\KS2.exe.config
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\KS2\KS2\obj\Debug\KS2.exe
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\KS2\KS2\obj\Debug\KS2.xml
+C:\Users\kopyl\OneDrive\Рабочий стол\МДК-02\KS2\KS2\obj\Debug\KS2.pdb
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\bin\Debug\KS2.exe.config
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\obj\Debug\KS2.exe
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\obj\Debug\KS2.xml
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\obj\Debug\KS2.pdb
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\bin\Debug\KS2.exe
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\bin\Debug\KS2.pdb
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\bin\Debug\KS2.xml
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\obj\Debug\KS2.vbprojResolveAssemblyReference.cache
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\obj\Debug\KS2.Form1.resources
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\obj\Debug\KS2.Resources.resources
+D:\Пользователи\Дмитрий\Desktop\01.03 Server\KS2\KS2\obj\Debug\KS2.vbproj.GenerateResource.Cache

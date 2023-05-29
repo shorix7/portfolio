@@ -1,0 +1,55 @@
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe.config
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.pdb
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.xml
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbprojResolveAssemblyReference.cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.ResolveComReference.cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Form1.resources
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Resources.resources
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.GenerateResource.Cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.exe
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.xml
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.pdb
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe.config
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.ResolveComReference.cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.exe
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.xml
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.pdb
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.pdb
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.xml
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbprojResolveAssemblyReference.cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Form1.resources
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Resources.resources
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Экспорт импорт 3(готовая....)\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.GenerateResource.Cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe.config
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.ResolveComReference.cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.exe
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.xml
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.pdb
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.pdb
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.xml
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbprojResolveAssemblyReference.cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Form1.resources
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Resources.resources
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Дубликат готовой )\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.GenerateResource.Cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe.config
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.ResolveComReference.cache
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.exe
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.xml
+D:\Пользователи\Дмитрий\Desktop\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.pdb
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe.config
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.exe
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.pdb
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\bin\Debug\Excel_Editor3.xml
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.AssemblyReference.cache
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.SuggestedBindingRedirects.cache
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.ResolveComReference.cache
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Form1.resources
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.Resources.resources
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.GenerateResource.cache
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.vbproj.CoreCompileInputs.cache
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.exe
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.xml
+D:\Users\MaloyPC\Рабочий стол\Учёба\МДК 01-02\СпецЗадание Димасик\Готовая с автозаполнением\Excel_Editor3\Excel_Editor3\obj\Debug\Excel_Editor3.pdb

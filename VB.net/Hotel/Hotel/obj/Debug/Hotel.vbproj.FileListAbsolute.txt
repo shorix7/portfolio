@@ -1,0 +1,50 @@
+C:\Users\tonig\AppData\Local\Temporary Projects\Hotel\bin\Debug\Hotel.exe.config
+F:\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+F:\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+F:\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+F:\Hotel\Hotel\Hotel\bin\Debug\Hotel.xml
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.vbprojResolveAssemblyReference.cache
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.MDI1.resources
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.Resources.resources
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.vbproj.GenerateResource.Cache
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.xml
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.F2.resources
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.Zaselenie.resources
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoKlient.resources
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoKlientAdd.resources
+F:\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoNomer.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.xml
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\bin\Debug\Hotel.xml
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.F2.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoKlient.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoKlientAdd.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoNomer.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.MDI1.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.Resources.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.Zaselenie.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.vbproj.GenerateResource.Cache
+D:\Пользователи\Дмитрий\Desktop\Hotel (27.03)\Hotel\Hotel\Hotel\obj\Debug\Hotel.BlackList.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.xml
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.vbprojResolveAssemblyReference.cache
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.BlackList.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.F2.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoKlient.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoKlientAdd.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.InfoNomer.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.MDI1.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.Zaselenie.resources
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.vbproj.GenerateResource.Cache
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\bin\Debug\Hotel.xml
+D:\Пользователи\Дмитрий\Desktop\Hotel (с ЧС)\Hotel\Hotel\Hotel\obj\Debug\Hotel.Resources.resources

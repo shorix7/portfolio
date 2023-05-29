@@ -1,0 +1,117 @@
+Задание 1.
+function counterStringType(str) {
+  str = [...str];
+  return {
+    буквы: str.filter(e => /[a-zа-яё]/i.test(e)).length,
+    числа: str.filter(e => /[0-9]/.test(e)).length,
+    остальное: str.filter(e => /[^a-zа-яё0-9]/i.test(e)).length,
+  };
+}
+
+
+Задание 2.
+function convertTwoDigitNumberToText(num){
+  let first = ['Один', 'Два', 'Три', 'Четыре', 'Пять', 'Шесть', 'Семь', 'Восемь', 'Девять'];
+  let second = ['Десять', 'Одинадцать', 'Двенадцать', 'Тринадцать', 'Четырнадцать', 'Пятнадцать', 'Шестнадцать', 'Семьнадцать', 'Восемьнадцать', 'Девяднадцать', 'Двадвать'];
+  let third = ['Двадцать', 'Тридцать', 'Сорок', 'Пятьдесят', 'Шестьдесят', 'Семьдесят', 'Восемьдесят', 'Девяносто'];
+    if (num > 0 && num <= 9){
+        return first[number - 1]; 
+    }
+    if (num >= 10 && num <= 20) {
+    return second[number - 10];
+    }
+    if (num > 20 && num <= 99) {
+        return `${third[String(num)[0] - 2]} ${first[String(num)[1] - 1]}`;
+    }
+}
+convertTwoDigitNumberToText(99)
+
+
+Задание 3.!
+function recreateText(smthtext_){
+    let numbers = '1234567890';
+    for (i in smthtext_){
+        if (numbers.indexOf(smthtext_[i]) != -1){
+            smthtext_ = smthtext_.replace(smthtext_[i], "_")
+        } else if (smthtext_[i] == smthtext_[i].toLowerCase()){
+            smthtext_ = smthtext_.replace(smthtext_[i], smthtext_[i].toUpperCase())
+        } else if (smthtext_[i] == smthtext_[i].toUpperCase()){
+            smthtext_ = smthtext_.replace(smthtext_[i], smthtext_[i].toLowerCase())
+        }
+    }
+    return smthtext_
+}
+
+
+Задание 4.
+function convertCSSStyleToCamel(textCSS){
+    for (i in textCSS)
+        if (textCSS[i] == "-"){
+            result = textCSS.split("-")
+            word1 = result[0]
+            word2 = result[1]
+        }
+    return word1 + (word2.charAt(0).toUpperCase() + word2.slice(1))
+
+
+Задание 5.
+function convertToAbbreviation(phrase){
+    phraseArray = phrase.split(" ")
+    abbreviation = ""
+    for (i in phraseArray){
+        abbreviation += phraseArray[i].charAt(0).toUpperCase()
+    }
+    return abbreviation
+}
+
+
+Задание 6.
+function task6(n) {
+    let newText = "";
+    while(n > 0){
+        text = prompt("Ввод строки: ");
+        newText += text;  
+        newText += " ";     
+        n--;
+    }
+    return newText;
+}
+
+
+Задание 7.
+function calculatorExample(example){
+    for (i in example){
+        if (example[i] == "+"){
+           number1 = example.slice(0,i)
+           number2 = example.substring(i).substring(1)
+           return Number(number1) + Number(number2)
+        } else if (example[i] == "-"){
+           number1 = example.slice(0,i)
+           number2 = example.substring(i).substring(1)
+           return Number(number1) - Number(number2)
+        } else if (example[i] == "/"){
+           number1 = example.slice(0,i)
+           number2 = example.substring(i).substring(1)
+           return Number(number1) / Number(number2)
+        } else if (example[i] == "*"){
+           number1 = example.slice(0,i)
+           number2 = example.substring(i).substring(1)
+           return Number(number1) * Number(number2)
+        }
+    }
+}
+calculatorExample('25 / 5')
+
+
+Задание 8.
+function informationURL(introducedURL){
+    withoutProtokol = introducedURL.slice((introducedURL.indexOf("//"))+2)
+   let protokol = introducedURL.slice(0,introducedURL.indexOf(":"))
+   let domen = withoutProtokol.slice(0,withoutProtokol.indexOf("/"))
+   let direct = withoutProtokol.slice((withoutProtokol.indexOf("/")))
+    return `Протокол: ${protokol}, Домен: ${domen}, Путь: ${direct}`
+}
+informationURL('https://itstep.org/ua/about')
+
+Задание 9.
+Задание 10.
